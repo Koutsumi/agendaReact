@@ -144,7 +144,7 @@ export default function MyList(){
                     {/* <p className="hidden">ID: {cliente.id}</p>  */}
                     </div>
 
-                    <section className={isNavExpanded ? 'block absolute h-[500px] overflow-auto w-[90%] my-4 md:w-[50%] flex flex-col items-center justify-start bg-blue-100 rounded' : 'hidden'}>
+                    <section className={isNavExpanded ? 'absolute top-[41rem] md:top-[7rem] h-[350px] w-[85%] md:w-[350px] flex flex-col items-center justify-start bg-blue-900 rounded' : 'hidden'}>
                     <div className="w-[90%] max-w-5xl flex flex-col items-center justify-center">
                     <div className="w-[90%] flex flex-row items-center justify-between">
                     <h2 className="text-white text-2xl my-4">Editar contato</h2>

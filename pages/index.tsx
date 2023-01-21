@@ -14,7 +14,7 @@ export default function Home() {
       <main className='w-full max-w-5xl md:flex md:flex-row md:items-center md:justify-between flex flex-col items-center justify-center'>
         
         <Form />
-        <MyList Form/>
+        <MyList />
        
         
         
